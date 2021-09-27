@@ -55,8 +55,12 @@
 - **MATLAB Laboratories**
 - **Buck Converter Project & Implementation**
 - **Control of Discrete-Event System Machine Project & Implementation**
-
->### 4. Softwares & Tools:
+---
+>### 4. Programming Languages:
+- **MATLAB**
+- **C**
+---
+>### 5. Softwares & Tools:
 - **[MATLAB & Simulink](https://www.mathworks.com/products.html)**
 - **[Code Composer Studio](https://www.ti.com/tool/CCSTUDIO)**
 - **[KiCad EDA](https://www.kicad.org/)**
