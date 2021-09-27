@@ -35,6 +35,8 @@
     - Root-Contour Plots
 - **Compensator Design Techniques**
     - Lag, Lead & Lead-Lag Compensators
+        - Frequency Domain Techniques
+        - Root Locus Techniques 
     - PI, PD & PID Controller Project
 - **State Space Analysis of Control System**
     - State Space Representation & Solution of Dynamical Systems
