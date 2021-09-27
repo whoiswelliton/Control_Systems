@@ -40,7 +40,7 @@
     - State Space Representation & Solution of Dynamical Systems
     - Controllable, Observable, Diagonal & Jordan Canonical Form
     - Controllability & Observability
-- **Control System Design by Stare Space**
+- **Control System Design by State Space**
     - Controller Design by Pole Placement
     - Regulator & Observer Project
 - **Discrete-Event Systems (DESs)**
