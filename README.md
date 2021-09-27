@@ -43,14 +43,22 @@
 - **Control System Design by Stare Space**
     - Controller Design by Pole Placement
     - Regulator & Observer Project
+- **Discrete-Event Systems (DESs)**
+    - Modeling, Simmulation, Observation & Control of Discrete-Event Systems
+    - Supervisory Control of Discrete-Event Systems
+    - Monolithic Controllers Synthesis
+    - Controllers Synthesis with Extended Automata or Distinguishers 
 ---
 >### 3. Projects & Implementations:
-- **Matlab Laboratories**
+- **MATLAB Laboratories**
 - **Buck Converter Project & Implementation**
-- **Control of Discrete-Event System Machine**
+- **Control of Discrete-Event System Machine Project & Implementation**
 
 >### 4. Softwares & Tools:
-- **[LTspice Simulator](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)**
-- **[Multisim Simulator](https://www.multisim.com/)**
+- **[MATLAB & Simulink](https://www.mathworks.com/products.html)**
+- **[Code Composer Studio](https://www.ti.com/tool/CCSTUDIO)**
+- **[KiCad EDA](https://www.kicad.org/)**
+- **[PSIM Software](https://powersimtech.com/products/psim/capabilities-applications/)**
 - **[SMath Studio](https://en.smath.com/view/SMathStudio/summary)**
-
+- **[Supremica](http://supremica.org/)**
+- **[DESLAB](https://doi.org/10.3182/20121003-3-MX-4033.00056)**
