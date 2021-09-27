@@ -33,6 +33,16 @@
     - Root Locus Diagram
     - Root Locus Plot & Analysis of Dynamic Systems
     - Root-Contour Plots
+- **Compensator Design Techniques**
+    - Lag, Lead & Lead-Lag Compensators
+    - PI, PD & PID Controller Project
+- **State Space Analysis of Control System**
+    - State Space Representation & Solution of Dynamical Systems
+    - Controllable, Observable, Diagonal & Jordan Canonical Form
+    - Controllability & Observability
+- **Control System Design by Stare Space**
+    - Controller Design by Pole Placement
+    - Regulator & Observer Project
 ---
 >### 3. Projects & Implementations:
 - **Matlab Laboratories**
